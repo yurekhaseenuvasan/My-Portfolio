@@ -25,10 +25,24 @@ max-height: 20%;
 display: inline-block;
 width:50px;
 }
+#gi
+{
+  width:150px;
+  height:150px;
+  margin-left: 10px;
+  border-radius: 50%;
+}
+li
+{
+  
+  margin-left: 150px;
+}
+
 #gif
 {
   width:150px;
   height:150px;
+  margin-left: 150px;
   border-radius: 50%;
 }
 #foo{
@@ -101,15 +115,23 @@ h2{
   padding:3% ;
   text-decoration: underline;
 }
-#banner
-{
+.flex-container{
+  width:100%;
+}
+#banner{
   display: flex;
-  padding-left: 25%;
-  padding-right: 25%;
-  padding-top: 5%;
+  flex-direction: row;
+  justify-content: center;
 }
 #sec
 {
   text-align: center;
   padding:10%;
+}
+@media (max-width: 800px) {
+  #banner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
 }
