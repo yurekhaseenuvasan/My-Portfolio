@@ -1,0 +1,115 @@
+#home
+{ 
+  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Niconne', cursive;
+    font-size: 75px;
+   
+    
+}
+
+.h
+{
+  text-align: center;
+  padding:5%;
+  background-image:linear-gradient(115deg,rgba(231, 236, 238, 0.603),rgba(19, 17, 17, 0.89)),url("https://payload.cargocollective.com/1/11/364612/8331118/Book-Mockup_2x.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.fa{
+  padding:20px;
+  margin-left:150px;
+  margin-right:150px;
+  max-width: 20%;
+max-height: 20%;
+display: inline-block;
+width:50px;
+}
+#gif
+{
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+}
+#foo{
+  text-align:center;
+  padding: 3%;
+  background-image:linear-gradient(115deg,rgba(3, 26, 36, 0.603),rgba(19, 17, 17, 0.89));
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fa-linkedin-square{
+  background:#007bb5;
+color:white;
+
+
+}
+.fa-instagram{
+  background: #125688;
+  color:white;
+  
+  
+}
+#se
+{
+  background-image:linear-gradient(115deg,rgba(109, 124, 129, 0.603),rgba(67, 77, 122, 0.822));
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#ban
+{
+  background-image:linear-gradient(115deg,rgba(100, 110, 114, 0.603),rgba(52, 78, 88, 0.822));
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#i
+{
+  
+  font-family: 'Arbutus Slab', serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Niconne', cursive;
+font-size: 60px;;
+}
+.img{
+  display: block;
+  width:30%;
+  height:25%;
+  margin-left: 130%;
+  margin-right: 150%;
+}
+#about{
+  
+  text-align:center;
+  padding:10%;
+   font-size: 35px;
+  background-image:linear-gradient(115deg,rgba(231, 236, 238, 0.603),rgba(141, 134, 134, 0.89)), url("https://images.template.net/wp-content/uploads/2017/04/05134418/Portfolio-templates.jpg");
+  background-repeat: no-repeat;
+  font-family: 'Arbutus Slab', serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Niconne', cursive;
+}
+#ab,#p
+{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 24px;
+}
+h2{
+  text-align:center;
+  padding:3% ;
+  text-decoration: underline;
+}
+#banner
+{
+  display: flex;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+}
+#sec
+{
+  text-align: center;
+  padding:10%;
+}
